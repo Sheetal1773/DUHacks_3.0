@@ -21,12 +21,12 @@ This project is a Blood Bank Management System developed using Python, Django, H
 - Admin can approve or reject blood requests, which also impact the blood stock.
 - Admin can view the history of blood requests and update the units of a particular blood group.
 
-#### Donor
+## Donor
 - Donors can create accounts with basic details.
 - After login, donors can donate blood, pending approval from admin.
 - Donors can view their donation history and blood request status.
 
-#### Patient
+## Patient
 - Patients can create accounts without admin approval.
 - Upon login, patients can request blood of specific blood groups and units.
 - Patients can view their blood request history with statuses.
