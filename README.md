@@ -20,12 +20,12 @@ This project is a Blood Bank Management System developed using Python, Django, H
 - Admin can approve or reject donation requests, which affect the blood stock accordingly.
 - Admin can approve or reject blood requests, which also impact the blood stock.
 - Admin can view the history of blood requests and update the units of a particular blood group.
-
+---
 ## Donor
 - Donors can create accounts with basic details.
 - After login, donors can donate blood, pending approval from admin.
 - Donors can view their donation history and blood request status.
-
+---
 ## Patient
 - Patients can create accounts without admin approval.
 - Upon login, patients can request blood of specific blood groups and units.
@@ -38,6 +38,7 @@ This project is a Blood Bank Management System developed using Python, Django, H
 - Download the project folder.
 - Navigate to the project folder in your terminal/command prompt.
 
+---
 ## Requirements
 
 To run this project, you need to have Python installed on your system. Additionally, you'll need to install the required Python packages listed in the `requirements.txt` file.
@@ -46,6 +47,7 @@ To install the required packages, run the following command:
 
 `pip install -r requirements.txt`
 
+---
 ## Running the Project
 
 Follow these steps to run the Blood Bank Management System:
@@ -84,6 +86,7 @@ python manage.py runserver
 
 5. Access the project in your web browser by visiting [http://localhost:8000/](http://localhost:8000/).
 
+---
 ## Usage
 
 Once the project is running, you can use the Blood Bank Management System to:
@@ -92,6 +95,7 @@ Once the project is running, you can use the Blood Bank Management System to:
 - Search for donors
 - Manage donor and patient profiles
 
+---
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
