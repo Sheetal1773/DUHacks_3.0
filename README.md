@@ -33,9 +33,9 @@ This project is a Blood Bank Management System developed using Python, Django, H
 
 ---
 
-## HOW TO RUN THIS PROJECT
+## How to run this project:
 - Install Python (version 3.11 recommended) and ensure "Add to Path" option is checked during installation.
-- Download the project zip folder and extract it.
+- Download the project folder.
 - Navigate to the project folder in your terminal/command prompt.
 
 ## Requirements
